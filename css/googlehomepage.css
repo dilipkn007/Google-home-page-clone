@@ -38,8 +38,30 @@ a:hover{
 .google_logo img{
     width: 330px;
     height: 280px;
-    margin-top: -10px;
+    margin-top: -30px;
     margin-left: 410px;
     padding-top: 85px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
     align-content: center;
+    position: relative;
+}
+
+.input input{
+    width: 450px;
+    height: 28px;
+    margin-top: -80px;
+    margin-left: 345px;
+    position: absolute;
+    border-width: 0.1px;
+    border-color: #F1F1F1;
+    ;
+}
+
+.mic img{
+    position: absolute;
+    width: 12px;
+    height: 17px;
+    margin-top: -73px;
+    margin-left: 781px;
 }
