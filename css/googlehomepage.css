@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.header a{
+    margin: 12px 10px 0px 7.5px;
+    padding-top: 11px;
+    color: black;
+    float: left;
+    font-size: 10px;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #5F5F5F;
+}
+.logo{
+    margin: 15px;
+    float: right;
+    box-sizing: content-box;
+    padding-top: 5.5px;
+}
+
+.logo img{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+.header{
+    float: right;
+}
+
+.google_logo img{
+    width: 330px;
+    height: 280px;
+    margin-top: -10px;
+    margin-left: 410px;
+    padding-top: 85px;
+    align-content: center;
+}
