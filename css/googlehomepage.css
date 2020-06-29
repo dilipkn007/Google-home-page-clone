@@ -36,8 +36,8 @@ a:hover{
 }
 
 .google_logo img{
-    width: 330px;
-    height: 280px;
+    width: 332px;
+    height: 282px;
     margin-top: -30px;
     margin-left: 410px;
     padding-top: 85px;
@@ -48,20 +48,21 @@ a:hover{
 }
 
 .input input{
-    width: 450px;
-    height: 28px;
+    width: 400px;
+    height: 15px;
     margin-top: -80px;
     margin-left: 345px;
     position: absolute;
-    border-width: 0.1px;
-    border-color: #F1F1F1;
-    ;
+    border: 0.2px solid #e7e4e4;
+    padding: 10px 36px;
+    border-radius: 20px;
 }
 
 .mic img{
-    position: absolute;
     width: 12px;
     height: 17px;
-    margin-top: -73px;
-    margin-left: 781px;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 788px;
+
 }
