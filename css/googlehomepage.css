@@ -66,3 +66,61 @@ a:hover{
     margin-left: 788px;
 
 }
+
+.search img{
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    margin-top: -68px;
+    margin-left: 360px;
+}
+
+.buttons{
+    position: relative;
+    margin-left: 460px;
+    margin-top: -20px;
+}
+
+.buttons button{
+    color: #5F6368;
+    background-color: #F1F1F1;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    padding: 5px 10px;
+    border: 0px solid ;
+    border-radius: 3px;
+}
+
+.languages{
+    text-align: center;
+    font-size: 10px;
+}
+
+.footer{
+ margin-top: 223px;  
+ background-color: #F2F2F2;
+}
+
+.country{
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+.footer_links{
+    font-size: 10px;
+}
+
+.left_footer_links{
+    float: left;
+    padding-bottom: 5px;
+}
+
+.right_footer_links{
+    float: right;
+    padding-bottom: 5px;    
+}
+
+.footer_links a{
+    padding: 10px 15px 10px 15px;
+}
